@@ -13,7 +13,7 @@ Tedtalk provides information about talk delivered at TED Events which includes T
 
 # Project Overview 
 The Tedtalk Analysis aims at uncovering Insight,pattern and trend tnto viewers engagement,speaker influence and Topic popularity.The questions to be answered are:
-- Total views
+-Total views
 - Total likes
 - No of talks by author
 - Average views per talk
