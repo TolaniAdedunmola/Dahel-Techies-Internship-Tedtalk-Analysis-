@@ -40,9 +40,8 @@ i.  Average views per year
   
 j.  Correlation between views and likes
   
-k. Analyse title description of Tedtalk  and extract common topics
   
-l. Speaker with highest views/likes per talk to assess influence and popularity.
+k.  Speaker with highest views/likes per talk to assess influence and popularity.
    
 m. Distribution of views and Likes across speakers to understand diversity of speaker impact.
 
