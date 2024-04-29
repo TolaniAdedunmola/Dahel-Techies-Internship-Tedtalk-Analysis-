@@ -20,31 +20,31 @@ Tedtalk provides information about talk delivered at TED Events which includes T
 # Project Overview 
 The Tedtalk Analysis aims at uncovering Insight,pattern and trend tnto viewers engagement,speaker influence and Topic popularity.The questions to be answered are:
 
-- Total views
+a. Total views
   
-- Total likes
+b. Total likes
   
--  No of talks by author
+c.  No of talks by author
   
--  Average views per talk
+d. Average views per talk
   
--  Average likes per talk
+e. Average likes per talk
 
-- Most popular talks
+f. Most popular talks
 
--  Total talks per year
+g. Total talks per year
   
--  Average likes per year
+h.  Average likes per year
   
--  Average views per year
+i.  Average views per year
   
--  Correlation between views and likes
+j.  Correlation between views and likes
   
-- Analyse title description of Tedtalk  and extract common topics
+k. Analyse title description of Tedtalk  and extract common topics
   
-- Speaker with highest views/likes per talk to assess influence and popularity.
+l. Speaker with highest views/likes per talk to assess influence and popularity.
    
-- Distribution of views and Likes across speakers to understand diversity of speaker impact.
+m. Distribution of views and Likes across speakers to understand diversity of speaker impact.
 
 # Data Dictionary 
 
