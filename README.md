@@ -46,4 +46,23 @@ The Tedtalk Analysis aims at uncovering Insight,pattern and trend tnto viewers e
 | Link     | The URL or hyperlink to the TED Talk video             | Text/URL  |
 
 
+Data Source 
+This dataset was compiled by Dahel Techies for internship purpose.
 
+Download [Here](https://docs.google.com/spreadsheets/d/1LZx_TUD3n2v5OdXEjFFKqI3Dbt4FjYIp/edit?usp=drivesdk&ouid=115085326801434600917&rtpof=true&sd=true)
+
+# Data Processing 
+
+➢The Dataset was Transformed in the Power Query.
+➢No cleaning was done as the column quality was 100%, the data types were 
+accurate, 1 duplicate value was found and no empty rows.
+➢The Data was then loaded into Power Bi.
+➢Dax was created for Total Likes, Total Views, Total Talks and Average Views Per talk.
+
+# DashBoard 
+
+
+#Insight
+
+
+# Recommendation
