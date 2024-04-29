@@ -4,11 +4,17 @@ Tedtalk provides information about talk delivered at TED Events which includes T
 
 # Content 
 [Project Overview](#project-overview)
+
 [Data Dictionary](#data-dictionary) 
+
 [Data Source](#data-souurce) 
-[Data Processing](#data-processing) 
+
+[Data Processing](#data-processing)
+
 [Dashboard](#dashboard) 
+
 [Insight](#Insight)
+
 [Recommendation](#recommendation)
 
 # Project Overview 
