@@ -80,7 +80,7 @@ accurate, 1 duplicate value was found and no empty rows.
 
 
 <!-- Banner Text -->
-<img src="https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Tedtalk-Analysis-/blob/main/Tedtak%202%20analysisPNG">
+<img src="https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Tedtalk-Analysis-/blob/main/Tedtak%202%20analysis.PNG">
 
 
 
