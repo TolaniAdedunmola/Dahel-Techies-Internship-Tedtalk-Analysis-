@@ -56,6 +56,19 @@ The Tedtalk Analysis aims at uncovering Insight,pattern and trend tnto viewers e
 This dataset was compiled by Dahel Techies for internship purpose.
 Download [Here](https://docs.google.com/spreadsheets/d/1LZx_TUD3n2v5OdXEjFFKqI3Dbt4FjYIp/edit?usp=drivesdk&ouid=115085326801434600917&rtpof=true&sd=true)
 
+### Data Tools
+➢  Microsoft Excel: Data Exploration, Data Cleaning and Preparation 
+
+➢ Microsoft Word: Documentation and Reporting
+
+➢ Microsoft Power BI: Data Visualization, and dashboard 
+
+➢ Microsoft Teams: Collaboration, and Sharing Reports 
+
+➢ Microsoft PowerPoint: Presentation of Findings 
+
+➢ Microsoft Power Query: Data Transformation
+
 # Data Processing 
 
 ➢The Dataset was Transformed in the Power Query.
