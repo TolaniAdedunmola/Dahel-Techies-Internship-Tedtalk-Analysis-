@@ -76,7 +76,11 @@ accurate, 1 duplicate value was found and no empty rows.
 
 # DashBoard
 
-<img src="https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Tedtalk-Analysis-/blob/main/Tedtak%202%20analysis.PNG"alt="banner
+
+
+
+<!-- Banner Text -->
+<img src="https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Tedtalk-Analysis-/blob/main/Tedtak%202%20analysisPNG">
 
 
 
